@@ -1,10 +1,69 @@
 {
-  "privacy_policy": {
-    "version": "1.0.4",
-    "content": "<h1>Tings Policy</h1>\n<p>Last updated: December 5, 2025</p>\n<p>Tings This Privacy Policy describes how we collect, use, and share your personal information when you use our website.</p>\n<h2>Information We Collect</h2>\n<ul>\n  <li>Contact information (name, email, phone)</li>\n  <li>Usage data (pages visited, actions taken)</li>\n  <li>Device and browser information</li>\n</ul>\n<h2>How We Use Information</h2>\n<ul>\n  <li>To provide, maintain, and improve our services</li>\n  <li>To communicate with you about updates and support</li>\n  <li>To ensure security and prevent fraud</li>\n</ul>\n<h2>Sharing</h2>\n<p>We do not sell personal information. We may share data with trusted service providers under contract to operate our services.</p>\n<h2>Your Rights</h2>\n<p>Depending on your location, you may have rights to access, correct, or delete your data. Contact us at <a href=\"mailto:privacy@example.com\">privacy@example.com</a>.</p>\n<h2>Contact</h2>\n<p>If you have questions, contact <a href=\"mailto:privacy@example.com\">privacy@example.com</a>.</p>"
+  "meta": {
+    "version": "2025.01.0",
+    "generated_at": "2025-01-01T00:00:00Z",
+    "disclaimer": "These templates are general-purpose boilerplates and do not constitute legal advice. Users should customize content as needed and consult a legal professional for compliance in their jurisdiction."
   },
+
+  "privacy_policy": {
+    "standard": {
+      "label": "Standard Business Privacy Policy",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## Privacy Policy\n\nLast updated: 2025-01-01\n\nWe value your privacy. This Privacy Policy describes how we collect, use, and protect your information when you use our website.\n\n### Information We Collect\n- Personal information you provide (name, email, etc.)\n- Usage data (pages visited, browser type, etc.)\n\n### How We Use Your Information\n- To operate and maintain our website\n- To respond to inquiries\n- To improve user experience\n\n### Cookies\nWe use cookies to provide essential site functionality and analyze site usage.\n\n### Third-Party Services\nWe may use third-party tools for analytics, email, or hosting. These providers may collect information subject to their own policies.\n\n### Data Protection\nWe implement reasonable safeguards to protect your information.\n\n### Your Rights\nYou can request access, updates, or deletion of your personal data.\n\n### Contact\nFor questions about this Privacy Policy, contact us at [Your Email]."
+    },
+
+    "gdpr": {
+      "label": "GDPR-Focused Privacy Policy",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## GDPR Privacy Policy\n\nLast updated: 2025-01-01\n\nThis policy outlines how we process personal data in accordance with the General Data Protection Regulation (GDPR).\n\n### Data Controller\nWe act as the Data Controller for the personal data you provide.\n\n### Lawful Basis for Processing\nWe process data on one of the following grounds:\n- Consent\n- Legitimate interest\n- Contractual necessity\n- Legal obligation\n\n### Individual Rights\nUnder GDPR, you have the right to:\n- Access your data\n- Request correction or deletion\n- Withdraw consent\n- Object to processing\n- Request data portability\n\n### International Transfers\nYour data may be processed outside the EU. We ensure appropriate safeguards.\n\n### Contact\nYou may contact us for GDPR-related requests at [Your Email]."
+    },
+
+    "saas": {
+      "label": "SaaS Privacy Policy",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## SaaS Privacy Policy\n\nLast updated: 2025-01-01\n\nThis Privacy Policy explains how we handle data from users of our SaaS platform.\n\n### Information We Collect\n- Account information (name, email)\n- Billing information\n- Usage data from the SaaS dashboard or APIs\n\n### How We Use Data\n- To operate the SaaS service\n- To provide customer support\n- To send service-related communications\n\n### Subprocessors\nWe use trusted third-party vendors for hosting, analytics, and billing.\n\n### Data Retention\nWe retain data only as long as needed for operation or legal obligations.\n\n### Security\nWe apply industry-standard security practices, including encryption in transit and access controls."
+    }
+  },
+
   "terms": {
-    "version": "1.0.2",
-    "content": "<h1>Terms & Conditions</h1>\n<p>Last updated: December 5, 2025</p>\n<p>By accessing or using our website, you agree to these Terms.</p>\n<h2>Use of the Site</h2>\n<ul>\n  <li>You must be at least 18 years old or have parental consent.</li>\n  <li>Do not misuse the site or attempt to interfere with its operation.</li>\n</ul>\n<h2>Intellectual Property</h2>\n<p>All content is owned by us or our licensors and protected by law.</p>\n<h2>Limitation of Liability</h2>\n<p>To the maximum extent permitted by law, we are not liable for indirect or consequential damages.</p>\n<h2>Changes to Terms</h2>\n<p>We may update these Terms periodically. Continued use means acceptance of the changes.</p>\n<h2>Contact</h2>\n<p>Questions? Email <a href=\"mailto:legal@example.com\">legal@example.com</a>.</p>"
+    "standard": {
+      "label": "Standard Website Terms & Conditions",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## Terms & Conditions\n\nLast updated: 2025-01-01\n\nBy accessing or using our website, you agree to these Terms.\n\n### Use of the Site\nYou agree to use the site only for lawful purposes.\n\n### Intellectual Property\nAll content is owned or licensed by us and may not be copied without permission.\n\n### Limitation of Liability\nWe provide the site 'as-is' without warranties. We are not liable for damages arising from site use.\n\n### Governing Law\nThese Terms are governed by the laws of your local jurisdiction.\n\n### Contact\nQuestions about these Terms can be sent to [Your Email]."
+    },
+
+    "ecommerce": {
+      "label": "Ecommerce Terms of Sale",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## Terms of Sale\n\nLast updated: 2025-01-01\n\n### Orders\nAll orders are subject to acceptance and availability.\n\n### Pricing\nPrices are shown at checkout. Taxes may apply.\n\n### Shipping\nDelivery times are estimates and not guaranteed.\n\n### Returns & Refunds\nYou may request a refund within [X] days. Products must be unused and in original condition.\n\n### Liability\nWe are not liable for indirect, incidental, or consequential damages."
+    },
+
+    "saas_terms": {
+      "label": "SaaS Subscription Terms",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## SaaS Subscription Terms\n\nLast updated: 2025-01-01\n\n### Subscription\nAccess to the service requires a recurring subscription.\n\n### Billing\nFees are billed in advance at the start of each billing period.\n\n### Termination\nEither party may terminate with written notice. No refunds for partial periods.\n\n### Acceptable Use\nUsers may not use the service for illegal or abusive activities.\n\n### Service Availability\nWe strive for high availability but do not guarantee uninterrupted uptime."
+    }
+  },
+
+  "cookies": {
+    "basic": {
+      "label": "Basic Cookie Policy",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## Cookie Policy\n\nLast updated: 2025-01-01\n\nWe use cookies to:\n- Enable essential site functionality\n- Understand site usage\n- Improve performance\n\nYou can adjust cookie settings in your browser."
+    },
+
+    "gdpr_cookie": {
+      "label": "GDPR Cookie Policy",
+      "version": "1.0.0",
+      "updated": "2025-01-01",
+      "content": "## GDPR Cookie Policy\n\nLast updated: 2025-01-01\n\n### Types of Cookies\n- Essential\n- Analytics\n- Marketing\n\n### Consent\nEU visitors must actively consent before non-essential cookies are used.\n\n### Manage Cookies\nUsers may withdraw consent at any time by adjusting cookie settings."
+    }
   }
 }
